@@ -7,7 +7,7 @@
 
 <br>
 
-## Binary Bandits 01 Team
+## Team Members
 
 | David Prutch | Natasha Siramarco | Raheem Reed | Dustin Haggett|
 |:---------------:|:----------:|:------------------:|:------------:|
