@@ -23,14 +23,6 @@ The objective of this project is to conduct a comprehensive red team security as
 
 <br>
 
-<br>
-
-## Scenario
-
-<br>
-
-<br>
-
 ## Repositories
 [Documentation](https://github.com/Binary-Bandits-01/Documentation)
 
